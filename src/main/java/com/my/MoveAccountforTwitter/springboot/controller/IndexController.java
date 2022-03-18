@@ -11,8 +11,4 @@ public class IndexController {
         return "index";
     }
 
-    public String fileLoad() {
-        return "fileLoad";
-    }
-
 }
